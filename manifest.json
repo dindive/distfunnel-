@@ -1,0 +1,59 @@
+{
+  "name": "Dinstack - Expert Research Consulting",
+  "short_name": "Dinstack",
+  "description": "Professional research guidance for Nigerian students. Free project outline generator, thesis writing, data analysis & defense preparation.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0070a0",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicon.png",
+      "sizes": "32x32",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["education", "business", "productivity"],
+  "screenshots": [
+    {
+      "src": "/images/hero-illustration.jpg",
+      "sizes": "1024x768",
+      "type": "image/jpeg",
+      "form_factor": "wide"
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "shortcuts": [
+    {
+      "name": "Get Free Outline",
+      "short_name": "Free Outline",
+      "description": "Generate your free project outline",
+      "url": "/funnel",
+      "icons": [{ "src": "/icon-192x192.png", "sizes": "192x192" }]
+    },
+    {
+      "name": "Chat on WhatsApp",
+      "short_name": "WhatsApp",
+      "description": "Chat with our team on WhatsApp",
+      "url": "https://wa.me/2349133118644",
+      "icons": [{ "src": "/icon-192x192.png", "sizes": "192x192" }]
+    }
+  ]
+}
